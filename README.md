@@ -24,7 +24,7 @@ allprojects {
 }
 
 dependencies {
-    implementation 'com.github.erenalpaslan:removebg:1.0.4'
+    implementation 'com.github.CodeWithTamim:removebg:1.0.0'
 }
 ```
 
